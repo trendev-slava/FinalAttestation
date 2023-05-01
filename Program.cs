@@ -31,7 +31,7 @@ int Count(string[] str)
     int res = 0;
 
     for (int i = 0; i < str.Length; i++)
-        if (str[i].Length >= 3) res++;
+        if (str[i].Length <= 3) res++;
 
     return res;
 }
