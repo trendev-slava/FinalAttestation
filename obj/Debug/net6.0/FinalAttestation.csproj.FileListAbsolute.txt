@@ -1,0 +1,15 @@
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/FinalAttestation.csproj.AssemblyReference.cache
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/FinalAttestation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/FinalAttestation.AssemblyInfoInputs.cache
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/FinalAttestation.AssemblyInfo.cs
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/FinalAttestation.csproj.CoreCompileInputs.cache
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/bin/Debug/net6.0/FinalAttestation
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/bin/Debug/net6.0/FinalAttestation.deps.json
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/bin/Debug/net6.0/FinalAttestation.runtimeconfig.json
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/bin/Debug/net6.0/FinalAttestation.dll
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/bin/Debug/net6.0/FinalAttestation.pdb
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/FinalAttestation.dll
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/refint/FinalAttestation.dll
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/FinalAttestation.pdb
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/FinalAttestation.genruntimeconfig.cache
+/Users/vaceslavtrendev/Desktop/Final Attestation/FinalAttestation/obj/Debug/net6.0/ref/FinalAttestation.dll
